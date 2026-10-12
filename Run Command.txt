@@ -1,0 +1,16 @@
+First Step - Cmd 
+Inside Cmd give c drive path in that be have to go on D: for D drive 
+
+Second Step - cd Project name
+
+Third Step - cd frontend (go to inside the Frontend Folder)
+
+Fourth Step - npm run dev (for run frontend)
+Frontend started
+
+Fifth Step - cd.. (From back to frontend to main root file)
+
+Sixth Step - cd backend (go to inside the Backend Folder)
+
+Seventh Step - npm run dev (for run Backend)
+
